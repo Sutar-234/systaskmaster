@@ -1,0 +1,14 @@
+﻿build/
+bin/
+*.o
+*.out
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+.*.cmd
+.tmp_versions/
+*.log
+*.pid
